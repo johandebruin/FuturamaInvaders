@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=sherif
+comment0.target=Disparo(Sprite)
+comment0.text=\r\n\ Emplea\ el\ poliformismo\ para\ detectar\ si\ la\ construlle\ un\ Jugador\ o\ un\ invader,\r\n\ en\ cuyo\ caso\ la\ direcci\u00F3n\ del\ disparo\ ser\u00E1\ hacia\ arriba\ o\ hacia\ abajo\ respectivamente.\r\n
+numComments=1

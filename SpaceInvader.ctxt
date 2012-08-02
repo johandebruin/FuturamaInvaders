@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ iniciar()
+comment1.text=\r\n\ Con\ este\ metodo\ inciaremos\ a\ todas\ las\ clases,\ principalmente\ ser\u00E1\ para\r\n\ cargar\ todas\ las\ imagenes\ y\ adem\u00E1s\ crear\ los\ elementos\ del\ juego.\r\n
+comment2.params=tiempoTranscurrido
+comment2.target=void\ actualizar(long)
+comment2.text=\r\n\ Primer\ metodo\ del\ loop\ del\ juego\r\n
+comment3.params=g
+comment3.target=void\ dibujar(java.awt.Graphics2D)
+comment3.text=\r\n\ Segun\ metodo\ del\ loop\ del\ juego\r\n
+comment4.params=codigoTecla
+comment4.target=void\ teclaPresionada(int)
+comment4.text=\r\n\ Procedimiento\ para\ gestionar\ las\ teclas\ pulsadas.\r\n
+comment5.params=codigoTecla
+comment5.target=void\ teclaLiberada(int)
+comment5.text=\r\n\ Procedimiento\ para\ gestionar\ las\ teclas\ liberadas\r\n
+numComments=6

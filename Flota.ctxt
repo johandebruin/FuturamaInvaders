@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Flota()
+comment0.text=\r\n\ Constructor\ por\ defecto\ construye\ una\ flota\ con\ las\ opciones\ de\ los\r\n\ campos\ especificados\ anteriormente.\r\n
+comment1.params=tiempoTranscurrido\ jugador
+comment1.target=void\ actualizar(long,\ Jugador)
+comment1.text=\r\n\ Actualizar,\ gestiona\ el\ tiempo\ de\ tal\ manera\ que\ solo\ actualizara\ cada\ tiempoMovimiento\r\n\ @param\ tiempoTranscurrido\ tiempo\ transcurrido\ desde\ la\ \u00FAltima\ actualizaci\u00F3n\ del\ juego\r\n\ @jugador\ el\ objeto\ del\ jugador\ para\ comprobar\ si\ alguno\ de\ sus\ disparos\ intersecta\ con\ \r\n\ los\ invaders\ de\ la\ flota.\r\n
+comment2.params=g
+comment2.target=void\ dibujar(java.awt.Graphics2D)
+comment2.text=\r\n\ Dibuja\ en\ la\ pantalla\ a\ todos\ los\ invaders\ de\ la\ flota\r\n
+comment3.params=sprite
+comment3.target=boolean\ intersectaDisparos(Sprite)
+comment3.text=\r\n\ Comprueba\ si\ alguno\ de\ los\ disparos\ de\ la\ flota\ intersecta\ con\ la\ victima\r\n\ @sprite\ victima\ en\ la\ que\ queremos\ comproba\ si\ intersectan\ los\ disparos\r\n\ @return\ True\ si\ algun\ disparo\ intersecta,\ sino\ false.\r\n
+comment4.params=
+comment4.target=void\ comprobarMovimiento()
+numComments=5

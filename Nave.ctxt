@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nave()
+comment0.text=\r\n\ Constructor,\ se\ dedica\ a\ incializar\ una\ nave\ con\ capacidad\ de\ gestionar\r\n\ multiples\ disparos\r\n
+comment1.params=victima
+comment1.target=boolean\ instersectaDisparos(Sprite)
+comment1.text=\r\n\ Devuelve\ true\ en\ caso\ de\ que\ alguno\ de\ los\ disparos\ de\ la\ nave\ intersecta\ con\r\n\ el\ Sprite\ pasado\ por\ el\ parametro.\r\n\ @param\ victima\ La\ victima\ que\ queremos\ ver\ si\ hemos\ conseguido\ dispararla.\r\n\ @return\ True\ en\ caso\ de\ que\ alg\u00FAn\ disparo\ intersecte\ con\ la\ victima,\ sino\ false\r\n
+comment2.params=
+comment2.target=void\ disparar()
+comment2.text=\r\n\ Crea\ un\ objeto\ disparo\ en\ la\ posici\u00F3n\ de\ la\ nave\r\n
+comment3.params=tiempoTranscurrido
+comment3.target=void\ actualizar(long)
+comment3.text=\r\n\ Actualizar\r\n\ @param\ tiempoTranscurrido\ tiempo\ desde\ la\ ultima\ actualizacion\ (milisegundos)\r\n
+comment4.params=g
+comment4.target=void\ dibujar(java.awt.Graphics2D)
+comment4.text=\r\n\ Dubja\ la\ nave\ en\ el\ grafico\r\n\ @param\ g\ Graphics2D\ sobre\ el\ que\ se\ va\ ha\ dibujar\r\n
+comment5.params=tiempoTranscurrido
+comment5.target=void\ actualizarDisparos(long)
+comment5.text=\r\n\ Metodo\ especial\ para\ actualizar\ los\ disparos\ \u00FAnicamente\r\n
+numComments=6

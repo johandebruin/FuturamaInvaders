@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jugador()
+comment0.text=\r\n\ El\ constructor\ depende\ de\ las\ variables\ estaticas\ SpaceInvader.inicioX\ y\ SpaceInvader.inicioY\r\n\ para\ colocarse\ en\ el\ extremo\ izquierdo\ de\ la\ pantalla\r\n
+comment1.params=tiempoTranscurrido\ flota
+comment1.target=void\ actualizar(long,\ Flota)
+comment1.text=\r\n\ Actualizar\ modificado\ para\ comprobar\ si\ la\ flota\ pasada\ por\ parametro\ intersecta\r\n\ alguno\ de\ sus\ disparos\r\n\ @param\ tiempoTranscurrido\ el\ tiempo\ transcurrido\ en\ milisegundos\r\n
+comment2.params=codigoTecla
+comment2.target=void\ mover(int)
+comment2.text=\r\n\ Mueve\ al\ jugador\r\n\ @param\ codigoTecla\ el\ numero\ que\ corresponde\ a\ los\ distintos\ codigos\ de\ las\ teclas\r\n\ hasta\ ahora\ gestiona\ VK_LEFT\ VK_RIGHT\ y\ VK_SPACE\r\n
+comment3.params=codigoTecla
+comment3.target=void\ dejarMover(int)
+comment3.text=\r\n\ Dira\ cuando\ debe\ dejar\ de\ moverse\r\n\ @param\ codigoTecla\ gestiona\ VK_LEFT\ o\ VK_RIGHT\r\n
+comment4.params=
+comment4.target=void\ disparar()
+comment4.text=\r\n\ Sobreescribimos\ el\ metodo\ de\ nave\ para\ que\ solo\ se\ pueda\ disparar\ un\r\n\ disparo\ a\ la\ vez.\r\n
+comment5.params=mover
+comment5.target=void\ moverIzquierda(boolean)
+comment6.params=mover
+comment6.target=void\ moverDerecha(boolean)
+numComments=7

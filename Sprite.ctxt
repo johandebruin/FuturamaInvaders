@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ iniciar()
+comment0.text=\r\n\ Este\ metodo\ por\ desgracia\ aumenta\ el\ acoplamiento,\ teniendo\ que\ ser\ redefinido\ en\ cada\ juego,\r\n\ pero\ es\ la\ mejor\ estrategia\ a\ la\ hora\ de\ gestionar\ las\ imagenes\ del\ juego\ de\ forma\ sencilla\r\n
+comment1.params=
+comment1.target=Sprite()
+comment1.text=\r\n\ Constructor\ del\ sprite,\ debe\ de\ haberse\ incializado\ su\ m\u00E9todo\ est\u00E1tico\ para\ que\ as\u00ED\ disponga\r\n\ de\ alguna\ imagen\ asociada.\r\n
+comment2.params=tiempoTranscurrido
+comment2.target=void\ actualizar(java.lang.Long)
+comment2.text=\r\n\ Redifine\ la\ posici\u00F3n\ del\ sprite\ en\ funci\u00F3n\ a\ la\ velocidad\ y\ el\ tiempo\ transcurrido\r\n\ @param\ tiempoTranscurrido\ valor\ del\ tiempo\ que\ ha\ transcurrido\ desde\ la\ \u00FAltima\ actualizaci\u00F3n\r\n
+comment3.params=g
+comment3.target=void\ dibujar(java.awt.Graphics2D)
+comment3.text=\r\n\ Dibuja\ la\ imagen\ actual\ del\ sprite\ en\ el\ grafico\ pasado\ por\ parametro\r\n\ @param\ g\ Graphics2D\ en\ el\ cual\ queremos\ dibujar\ el\ sprite\r\n
+numComments=4

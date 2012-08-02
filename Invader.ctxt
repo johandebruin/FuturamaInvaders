@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=posX\ posY
+comment0.target=Invader(int,\ int)
+comment0.text=\r\n\ Constructor\ del\ invader\r\n\ @param\ posX\ posicion\ de\ la\ coordenada\ X\ donde\ queramos\ construir\ el\ invader\r\n\ @param\ posY\ posicion\ de\ la\ coordenada\ Y\ donde\ queramos\ construir\ el\ invader\r\n
+comment1.params=distancia
+comment1.target=void\ actualizar(int)
+comment1.text=\r\n\ Sobreescribimos\ el\ metodo\ actualizar\ para\ que\ cada\ vez\ que\ se\ actualice\r\n\ las\ imagenes\ cambien.\ Dado\ que\ la\ velocidad\ de\ movimiento\ es\ 1\ en\ este\ parametro\r\n\ no\ ser\u00E1\ el\ tiempo\ de\ actualizaci\u00F3n\ sino\ la\ distancia\ en\ pixeles.\r\n\ @param\ distancia\ Entero\ con\ la\ distancia\ que\ queramos\ que\ recorra\ el\ invader.\r\n
+comment2.params=movimiento
+comment2.target=void\ mover(java.lang.String)
+comment2.text=\r\n\ Pasamos\ como\ parametro\ el\ movimiento\ en\ forma\ de\ texto\ para\ deficir\ como\r\n\ se\ mueve\ el\ invader.\ Notar\ que\ la\ velocidad\ de\ movimiento\ siempore\ ser\u00E1\ de\ 1.\r\n\ @param\ movimiento\ Gestiona\ los\ siguientes\ literales\:\ Abajo\ Derecha\ Izquierda.\r\n
+comment3.params=
+comment3.target=void\ moverDerecha()
+comment4.params=
+comment4.target=void\ moverIzquierda()
+comment5.params=
+comment5.target=void\ moverAbajo()
+comment6.params=g
+comment6.target=void\ dibujar(java.awt.Graphics2D)
+comment6.text=\r\n\ Sobreescribimos\ dibujar\ para\ que\ cambie\ la\ imagen\ del\ invader\ en\ cada\ actualizacion\r\n\ dandole\ la\ sensaci\u00F3n\ de\ animaci\u00F3n.\r\n
+numComments=7
